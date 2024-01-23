@@ -1,0 +1,20 @@
+.back-block {
+	opacity: 0.5;
+	width: 100%;
+	height: 100%;
+	background-color: gray;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+.front-block {
+	width: 300px;
+	height: 200px;
+	background-color: white;
+	position: fixed;
+	top: 500;
+	left: 500;
+	z-index: 1;
+
+}
